@@ -1,0 +1,24 @@
+body {
+	font-family: courier;
+	background-color: skyblue;
+}
+
+h1 {
+	font-family: courier;
+	text-align: center;
+}
+
+form {
+	background-color: rgba(117,233,240,0.75);
+	border-radius: 10px;
+	padding: 60px ;
+	margin: 5%;
+	width: 800px;
+	margin-left: 320px;
+}
+
+footer {
+	text-align: center;
+
+}
+
